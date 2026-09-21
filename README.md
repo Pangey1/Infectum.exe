@@ -1,4 +1,4 @@
-I N F E C T U M . E   X   E 
+I N F E C T U M  .  E  X  E
 My new GDI Malware in c++
 Created by using MinGW32 
 !!! WARNING !!! NO SAFETY VERSION CONTAINS PHYSICALDRIVE0!!!!!!!!!!!!!!
